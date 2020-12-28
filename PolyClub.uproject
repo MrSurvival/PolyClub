@@ -6,12 +6,12 @@
 	"Plugins": [
 		{
 			"Name": "VungleAds",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b6cd5b0155bd47d7affeb2155e554ed3"
 		},
 		{
 			"Name": "TMWEventAggregator",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa03f9aaed6843bfacdacaade161b45e"
 		},
 		{
@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "ElectronicNodes",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5cb2a394d0c04e73891762be4cbd7216"
 		},
 		{
@@ -36,7 +36,7 @@
 		},
 		{
 			"Name": "EasyFileSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/fa8842035ef0407c89f8b74638cbd080"
 		},
 		{
@@ -63,17 +63,17 @@
 		},
 		{
 			"Name": "PathFollow",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/7c19d00ad42a4b67972eea383dedb7f3"
 		},
 		{
 			"Name": "TransformationActorsPlugin",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e45b06e00615453c8880ffeda1b6f5f7"
 		},
 		{
 			"Name": "ObjectInspection",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3193610f35bd41e0bd9063dbd8e7ad23"
 		},
 		{
